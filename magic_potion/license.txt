@@ -1,0 +1,11 @@
+Model Information:
+* title:	Magic Potion
+* source:	https://sketchfab.com/3d-models/magic-potion-5f8bf93b2f074abeb183fa7cc6448f75
+* author:	Saikat_Azad (https://sketchfab.com/SaikatAzad)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Magic Potion" (https://sketchfab.com/3d-models/magic-potion-5f8bf93b2f074abeb183fa7cc6448f75) by Saikat_Azad (https://sketchfab.com/SaikatAzad) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
